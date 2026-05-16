@@ -1,0 +1,8 @@
+{
+  "name": "FocusBoard",
+  "description": "Um quadro Kanban interativo com foco em produtividade, totalmente client-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
